@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "707861951980",
+    "firebase_url": "https://dimensionsixebike-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dimensionsixebike",
+    "storage_bucket": "dimensionsixebike.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707861951980:android:d21961f2932790d059fcc9",
+        "android_client_info": {
+          "package_name": "com.dimensionsix.hook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAshMmlW-sN2uOoN8165BnByzBebbT7fnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707861951980:android:931179f18ea6cbe359fcc9",
+        "android_client_info": {
+          "package_name": "com.example.app_e_bike"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAshMmlW-sN2uOoN8165BnByzBebbT7fnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
