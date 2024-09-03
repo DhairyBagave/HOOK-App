@@ -1,5 +1,5 @@
 # HOOK-App
-###Revolutionize your cycling experience with real-time speed, distance, timer, and location monitoring right on your phone.
+### Revolutionize your cycling experience with real-time speed, distance, timer, and location monitoring right on your phone.
 
 E-bikes are rapidly gaining popularity, especially with rising petrol prices. But what about that old, trusty bicycle you love? Why not transform it into an electric bike? And here's the icing on the cake—you can now see your speed directly on your phone.
 
